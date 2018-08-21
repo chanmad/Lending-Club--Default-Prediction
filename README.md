@@ -1,4 +1,4 @@
-# LendingClub
+# Lending Club Data Analysis and Modeling
 Predicting bad loans from Lending Club data
 The purpose of this study was to determine what constitutes a risky lending. 
 Each line item in the data corresponded to a loan, and had various features relating to loan amount, employment information of the borrower, payments made, and the classification of the loan as charged off or active with any delays in payments noted.
